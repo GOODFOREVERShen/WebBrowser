@@ -21,5 +21,7 @@
 
 void Main()
 {
+    InitGraphics();
+    printf("1");
     
 }
