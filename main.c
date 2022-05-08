@@ -23,5 +23,6 @@ void Main()
 {
     InitGraphics();
     printf("1");
-    
+    printf("1234");
+    printf("浇浇我");
 }
